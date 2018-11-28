@@ -1,0 +1,5 @@
+* Idris Toy
+
+Repo for playing with Idris language.
+
+http://docs.idris-lang.org/en/latest/tutorial/introduction.html
